@@ -1,0 +1,6 @@
+qdrant-client 
+groq 
+sentence-transformers 
+dspy-ai 
+fastembed 
+gradio
